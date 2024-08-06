@@ -10,7 +10,7 @@
     "lodash": "^4.16.4",
     "randomcolor": "^0.4.4",
     "react": "15.3.2",
-    "react-native": "^0.35.0",
+    "react-native": "^0.74.3",
     "react-native-atoz-list": "^1.0.2"
   },
   "jest": {
